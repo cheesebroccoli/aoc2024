@@ -1,0 +1,7 @@
+Hello! 
+If you are reading this, why?
+
+12/1/2024
+  I started the advent of code, I started around 17:45 and I think I am done now at 18:56.
+  I've never messed with files on java so that was interesting. I chose java because it's pretty much the only language I've been using but after this I am going to switch becaues honestly that sucked. Like I needed to look up a bunch of functions anyways, so it wasn't like my knowledge was all the useful.
+Right now I'm thinking Python but I'm also following people doing aoc and they're doing it on python so...

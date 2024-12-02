@@ -4,4 +4,9 @@ If you are reading this, why?
 12/1/2024
   I started the advent of code, I started around 17:45 and I think I am done now at 18:56.
   I've never messed with files on java so that was interesting. I chose java because it's pretty much the only language I've been using but after this I am going to switch becaues honestly that sucked. Like I needed to look up a bunch of functions anyways, so it wasn't like my knowledge was all the useful.
-Right now I'm thinking Python but I'm also following people doing aoc and they're doing it on python so...
+Right now I'm thinking Python but I'm also following people doing aoc and they're doing it on python so, not sure.
+22:07 (back from dinner, Chase was paralyzed for a bit and fell in love with a nun)
+I cheated a little bit. Okay I cheated a lot of bit, I didn't want to come up with my own algorithm so I took a quicksort alg from the internet. It worked though- I'm on part 2! I don't know if I want to do the second one though. I have an idea but it's a linear algorithm which I think will end badly for my computer...
+So I'm a bit stuck, because part 2 is all about similarity. From what I can see, the score is number*frequency, added up
+
+I am a genius. I forgot to reset frequency.
